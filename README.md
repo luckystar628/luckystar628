@@ -1,16 +1,16 @@
 <h1 align="center">
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  , I'm Noah Sim.
+  , I'm luckystar.
 </h1>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algoria" alt="noahsim222" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algoria" alt="luckystar" />
   
 </div>
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=noahsim222&color=brightgreen&label=PROFILE%20VIEWS&base=624&abbreviated=true&color=blueviolet&style=plastic" alt="noahsim222" />
+<img src="https://komarev.com/ghpvc/?username=luckystar&color=brightgreen&label=PROFILE%20VIEWS&base=624&abbreviated=true&color=blueviolet&style=plastic" alt="luckystar" />
 <br />
 
 <h2>👨 About me:</h2>
@@ -24,19 +24,19 @@
 <div align="center">
 
   <a href="https://mail.google.com" target="blank">
-    <img align="center" src="./assets/gmail.png" alt="noahsim222" width="50" />
+    <img align="center" src="./assets/gmail.png" alt="luckystar" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com" target="blank">
-    <img align="center" src="./assets/discord.png" alt="noahsim222" width="50" />
+    <img align="center" src="./assets/discord.png" alt="luckystar" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://web.telegram.org/k/#777000" target="blank">
-    <img align="center" src="./assets/telegram.png" alt="noahsim222" width="50" />
+    <img align="center" src="./assets/telegram.png" alt="luckystar" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noahsim222" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luckystar" height="30" width="50" />
 
   </a>
 </div>
@@ -101,8 +101,8 @@
 <hr />
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noahsim222&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckystar&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/luckystar/luckystar/output/github-contribution-grid-snake.svg">
   <img src="./metrics.plugin.calendar.full.svg">
 
   
@@ -110,7 +110,7 @@
 
 <h2>🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noahsim222&theme=flat&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=luckystar&theme=flat&no-frame=false&no-bg=false&margin-w=4">
   <img src="./metrics.plugin.achievements.compact.svg">
 </div>
 
@@ -118,11 +118,11 @@
 <div align="center">
 
 
-[![Noah Sim's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsim222&theme=dracula#gh-dark-mode-only)](https://github.com/noahsim222/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noahsim222&theme=dracula&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
+[![luckystar's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckystar&theme=dracula#gh-dark-mode-only)](https://github.com/luckystar/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luckystar&theme=dracula&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsim222&theme=dracula#gh-dark-mode-only)](https://github.com/noahsim222/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckystar&theme=dracula#gh-dark-mode-only)](https://github.com/luckystar/github-readme-stats)
 ![](./metrics.plugin.code.svg)
 
 ![](./metrics.plugin.activity.svg)
