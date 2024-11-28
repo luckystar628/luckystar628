@@ -67,7 +67,7 @@
   <a href="https://eslint.com"><img alt="Eslint" src="./assets/ESLint.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/Node.js.svg" alt="nodejs" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://sass.com"><img alt="sass" src="./assets/sass.png" width="50" height="50" /></a>&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python_18894.png" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python_18894.png" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://docker.com"><img alt="docker" src="./assets/docker.png"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./assets/Postman.svg" alt="postman" width="50" height="50"/> </a>&nbsp;&nbsp;
@@ -76,13 +76,10 @@
   <a href="https://github.com"><img alt="GitHub" src="./assets/GitHub.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="#"><img alt="GitLab" src="./assets/GitLab.svg" width="50" height="50" /></a>&nbsp;&nbsp;
   <a href="https://mariadb.com"><img alt="MariaDB" src="./assets/mariadb.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-  
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="./assets/oracle.svg" alt="oracle" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://C#.com"><img alt="C#" src="./assets/Csharp.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/Cplus.svg" alt="cplusplus" width="50" height="50"/> </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/HTML5.svg" alt="html5" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./assets/HTML5.svg" alt="html5" width="50" height="50"/>  </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;  
 
@@ -91,7 +88,7 @@
 <hr />
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckystar628&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckystar628&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
   <img src="https://raw.githubusercontent.com/luckystar628/luckystar628/output/github-contribution-grid-snake.svg">
   <img src="./metrics.plugin.calendar.full.svg">
 
@@ -112,7 +109,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luckystar628&theme=dracula&border_radius=6&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckystar628&theme=dracula#gh-dark-mode-only)](https://github.com/luckystar628/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?us?ername=luckystar628&theme=dracula#gh-dark-mode-only)](https://github.com/luckystar628/github-readme-stats) -->
 
 ![](./metrics.plugin.code.svg)
 
