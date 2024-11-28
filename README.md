@@ -49,12 +49,10 @@
   
   <a href="https://graphql.com"><img alt="GraphQL" src="./assets/file_type_graphql_icon_130564.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://RestApi.com"><img alt="RestApi" src="./assets/rest-api-blue-logo-22099.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="./assets/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./assets/express_original_wordmark_logo_icon_146528.png" alt="express" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://laravel.com"><img alt="Laravel" src="./assets/Laravel.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://vue.com"><img alt="Vue" src="./assets/Vue.js.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank"> <img src="./assets/Next.js.svg" alt="nextjs" width="50" height="50"/> </a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="./assets/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.png" alt="react" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://redux.com"><img alt="redux" src="./assets/Redux.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/file_type_tailwind_icon_130128.png" alt="tailwind" width="50" height="50"/> </a>&nbsp;&nbsp;
@@ -68,13 +66,8 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python_18894.png" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://rust.com"><img alt="Rust" src="./assets/Rust.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>&nbsp;&nbsp;
-  <a href="https://jest.com"><img alt="jest" src="./assets/Jest.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://mocha.com"><img alt="mocha" src="./assets/mocha.png"  width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://pythest.com"><img alt="pythest" src="./assets/pytest.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://docker.com"><img alt="docker" src="./assets/docker.png"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./assets/Postman.svg" alt="postman" width="50" height="50"/> </a>&nbsp;&nbsp;
-  <a href="https://circleci.com"><img alt="circle CI" src="./assets/CircleCI.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://heroku.com"><img alt="HeroKu" src="./assets/Heroku.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://github.com"><img alt="github Actions" src="./assets/GitHub Actions.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/Git.svg" alt="git" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://github.com"><img alt="GitHub" src="./assets/GitHub.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
@@ -83,15 +76,12 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.svg" alt="mysql" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://postgresql.com"><img alt="PostgreSQL" src="./assets/postgresql.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://redis.com"><img alt="Redis" src="./assets/redis-plain-wordmark.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="./assets/oracle.svg" alt="oracle" width="50" height="50"/> </a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets/C.svg" alt="c" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://C#.com"><img alt="C#" src="./assets/Csharp.svg"  width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/Cplus.svg" alt="cplusplus" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="./assets/HTML5.svg" alt="html5" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.java.com"> <img src="./assets/Java.svg" alt="java" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
   <a href="https://php.com"><img alt="PHP" src="./assets/php_plain_logo_icon_146397.png" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;  
